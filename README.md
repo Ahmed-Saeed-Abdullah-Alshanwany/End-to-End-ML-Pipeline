@@ -28,10 +28,10 @@ This notebook serves as a practical implementation of core ML concepts, proving 
 *(Key insights and model evaluation metrics extracted from the pipeline)*
 
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between;">
-  <img src="1.jpg" width="48%" alt="Target Distribution" style="margin-bottom: 10px;">
-  <img src="2.png" width="48%" alt="Correlation Heatmap" style="margin-bottom: 10px;">
-  <img src="3.jpg" width="48%" alt="Confusion Matrix" style="margin-bottom: 10px;">
-  <img src="4.jpg" width="48%" alt="Feature Importance" style="margin-bottom: 10px;">
+  <img src="image (1).png" width="48%" alt="Data Visualization 1" style="margin-bottom: 10px;">
+  <img src="image (2).png" width="48%" alt="Data Visualization 2" style="margin-bottom: 10px;">
+  <img src="image (3).png" width="48%" alt="Data Visualization 3" style="margin-bottom: 10px;">
+  <img src="image (4).png" width="48%" alt="Data Visualization 4" style="margin-bottom: 10px;">
 </div>
 
 ## 💻 Tech Stack
